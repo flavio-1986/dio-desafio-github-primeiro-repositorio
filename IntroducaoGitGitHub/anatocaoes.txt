@@ -1,0 +1,4 @@
+link de downlaod do git: 
+
+https://git-scm.com/downloads
+O gti Bash é um terminal extendido para otimizar o uso do git.
